@@ -24,4 +24,4 @@ The dataset contains **15,000+ taxi ride records** across multiple attributes su
 - Observed trends in **pricing behavior during busy periods**.
 
 ## Dashboard
-![Taxi Fare Dashboard](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1773506304746-5xdtlpxf1.png)
+![Taxi Fare Dashboard](ZePP_Home_Page.png)
