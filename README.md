@@ -8,8 +8,6 @@ The dataset contains **15,000+ taxi ride records** across multiple attributes su
 
 ## Tools & Technologies
 - Excel
-- SQL
-- Python
 - Power BI
 
 ## Project Workflow
